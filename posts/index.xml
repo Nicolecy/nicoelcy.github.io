@@ -17,7 +17,8 @@
       <pubDate>Sun, 14 Jun 2020 23:20:21 +0800</pubDate>
       
       <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E9%A2%84%E8%A7%88/</guid>
-      <description>创建个人GitHub仓库 新建一个GitHub repo,命名为 你的GitHub用户名.github.io 除了命名以外的选项都不用动
+      <description>创建个人GitHub仓库 新建一个GitHub repo,命名为
+你的GitHub用户名.github.io  除了命名以外的选项都不用动
 创建本地仓库 步骤 进入文件夹中的public 创建本地仓库，上传，提交
 git init git add . git commit -m hello  关联远程仓库 复制新建repo后第二部分的两行代码 然后
 git push -u origin master  打开 x.github.io的 GitHub Pages</description>
